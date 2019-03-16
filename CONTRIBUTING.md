@@ -1,26 +1,25 @@
-Azure Pipelines status:
+Azure Pipelines status:  
 [![Build Status](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_apis/build/status/Kalles-Robotics-Club.kalles-robotics?branchName=master)](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_build/latest?definitionId=1?branchName=master)
 # Contributions
-Oh boy, time to structure how people are supposed to contribute because I'll bet somebody here doesn't know GitHub!  
-*I know for a fact the teacher doesn't.*  
-Anyway. Have a table of contents! :boom:  
-1. GitHub Basics  
-1. How to contribute  
+Okay, this is just me trying to be different from readme :P  
+Have a table of contents! :boom:  
+1. How do contribute?  
+1. Contribution Rules
   
-## GitHub Basics
-I'm adding this here since I'm pretty sure at least **someone** doesn't know GitHub. I'll put it in a list.  
-* The Code tab (the one you're on) contains the programming already being used.  
-* The Issues tab is where you report bugs, request features, add stuff to a [todo list,](https://github.com/TheFinalDawn/kalles-robotics/labels/To%20Do) etc.  
-* The Pull Requests tab is where it gets interesting. This tab is where you send your contributions! I'll explain this one later.  
-* The Projects tab. This tab is mainly for organization, and you can see who has been assigned to what.  
-* Almost done, we have the Wiki tab. That one... Isn't used much... ~~at least in our case~~  
-* Now for some admin tabs! The Insights tab is where admins can see repository stats.  
-* Last, but not least ~~(yet still an admin tool)~~ is the settings tab. Of course.  
+## How to contribute
+1. Make your changes to a fork (fork button up top) of this repo, and save them (make sure to push!)  
+1. Go to your repository _on github_  
+1. Click Pull Requests  
+1. Click "New Pull Request"  
+1. Click "Create Pull Request"
+1. Title your PR appropriately (rules)  
+1. Basically fill in the blanks, delete the unnecessary stuff  
+1. Click "Create Pull Request"  
+1. You're done!  
   
 ## Contribution Rules
-Okay, now for the good part.  
-#### To make sure everyone's being nice, programmers are ***REQUIRED*** to post ALL updates (commits) to their own branch, labeled (your username/real.name)-update, unless you're in a Teletype Portal.
+#### To make sure everyone's being nice, programmers are ***REQUIRED*** to post ALL updates (commits) to their own branch, labeled (your username/real.name)-update, unless you're in a Teletype Portal, Atom users. (Jaideeeeeeeeeeeeeen!)
 #### The person posting the updates must add everyone else as contributors to the commit.
-#### When posting a pull request to send your updates (try doing it at the end of each meet, at least), please label it based on what it's about. For example, if [@TheFinalDawn](https://github.com/TheFinalDawn) were to fix a turning bug that caused the robot to turn forever, he would label the pull request "Fix infinite turning bug" and add the [bug](https://github.com/TheFinalDawn/kalles-robotics/labels/bug) label to the request.
-#### It is preferred you use Teletype when programming.
+#### When posting a pull request to send your updates (try doing it at the end of each meet, at least), please label it based on what it's about. For example, if [@TheFinalDawn](https://github.com/TheFinalDawn) were to fix a turning bug that caused the robot to turn forever, he would label the pull request "Fix infinite turning bug" and add the [bug](https://github.com/Kalles-Robotics-Club/kalles-robotics/labels/bug) label to the request.
+#### It is preferred you use Teletype when programming. (this is an add on for Atom, you can request it be set up.)
 #### Please contact your head programmer for help with GitHub-related issues.
