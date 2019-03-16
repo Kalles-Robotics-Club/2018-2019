@@ -1,4 +1,4 @@
-Azure Pipelines status:
+Azure Pipelines status:  
 [![Build Status](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_apis/build/status/Kalles-Robotics-Club.kalles-robotics?branchName=master)](https://dev.azure.com/kalles-robotics/Robotics%202018-2019/_build/latest?definitionId=1?branchName=master)
 # Contributions
 Oh boy, time to structure how people are supposed to contribute because I'll bet somebody here doesn't know GitHub!  
